@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "check button", "check button\check button.csproj", "{A7C5577F-D6CE-457A-B8DE-0FD56F7822B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C5577F-D6CE-457A-B8DE-0FD56F7822B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C5577F-D6CE-457A-B8DE-0FD56F7822B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C5577F-D6CE-457A-B8DE-0FD56F7822B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C5577F-D6CE-457A-B8DE-0FD56F7822B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8BC6195-91AB-44E1-B70B-02B72D277F78}
+	EndGlobalSection
+EndGlobal
